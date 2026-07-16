@@ -1,0 +1,42 @@
+*{
+    
+    margin:0;
+    padding:0;
+}
+p {
+    font-family:monospace;
+}
+table {
+    border-style:solid;
+}
+td{
+    border: 5px;
+    border-style:solid;
+    border-color:burlywood;
+}
+ th {
+    border: 5px;
+    border-style:solid;
+    font-weight: bold;
+}
+
+li{
+    font-size: 20px;
+    content: "• ";
+    text-align: justify;
+    width:fit-content;
+
+
+
+}
+ul{
+    background:linear-gradient(90deg, rgb(0, 238, 255),rgb(255, 113, 181), rgb(255, 0, 132));
+
+}
+li b{
+    color:red;
+}
+button {
+    background-color:rgb(182, 255, 182);
+    color:white;
+}
